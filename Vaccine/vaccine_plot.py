@@ -2,13 +2,7 @@
 
 '''
 vaccine.py
-  Author(s): Yash Pandya (1146824), Chibuzor Okwusiuno(1123349), Joshua Jones(1125364), Andrew Chow (1088114)
-
-  Earlier Contributors: Andrew Hamilton-Wright
-
-  Project: Lab Assignment 7 Script (Iteration 0)
-  Date of Last Update: Mar 16, 2021.
-
+  Author(s): Yash Pandya, Chibuzor Okwusiuno, Joshua Jones, Andrew Chow
   Functional Summary
       plot.py reads a CSV file and saves
       a plot based on the data to a PDF file.
