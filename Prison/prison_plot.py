@@ -2,11 +2,7 @@
 
 '''
 plot.py
-  Author(s): Yash Pandya (1146824), Chibuzor Okwusiuno(1123349), Joshua Jones(1125364)
-  Early Contributors: Andrew Hamilton-Wright, Kassy Raymond
-
-  Project: Lab Assignment 7 Script (Iteration 0)
-  Date of Last Update: Mar 4, 2021.
+  Author(s): Yash Pandya, Chibuzor Okwusiuno, Joshua Jones, Andrew Chow
 
   Functional Summary
       plot.py reads a CSV file and saves
